@@ -26,7 +26,7 @@
 
 ## Interests
 
-- I am a avid sports fan. My favorite teams include FC Barcelona, Pittsburgh Steelers, Chicago Cubs, and Chicago Bulls.
+- I am an avid sports fan. My favorite teams include FC Barcelona, Pittsburgh Steelers, Chicago Cubs, and Chicago Bulls.
 
 - My ultimate dream job is to do sports analytics for the USMNT or USWNT.
 
