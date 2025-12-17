@@ -94,7 +94,6 @@ I am seeking roles in:
 
 ## Connect With Me
 
-- GitHub: https://github.com/zculp6
 - LinkedIn: https://www.linkedin.com/in/zachary-culp-347494251
 - Email: zachculp6@gmail.com
 
