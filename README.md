@@ -41,8 +41,6 @@ I am seeking roles in:
 
 ## Statistics Projects
 
-## Featured Projects
-
 ### March Madness Simulation App
 
 - Built an interactive Streamlit app to simulate NCAA Tournament outcomes
