@@ -4,7 +4,7 @@
 
 ### Get to Know Me:
 
-[Eductation](#education)
+[Education](#education)
 
 [Career Interests](#career)
 
