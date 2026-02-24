@@ -76,11 +76,11 @@ I am seeking roles in:
 ### STRAIN Soccer — Defensive Intensity Analysis
 
 - Using the **STRAIN** metric to quantify defensive pressure intensity in the attacking third using player tracking data
-- 
+  
 - Pipeline includes possession assignment, attacking direction inference, frame-level closest-defender identification, and closure rate calculation
-- 
+  
 - Animated side-by-side visualizations of pitch movement and real-time defensive metrics (distance, closure rate, STRAIN)
-- 
+  
 - GitHub repository: [STRAIN Soccer](https://github.com/zculp6/STRAIN-Soccer)
 
 ## Interests
