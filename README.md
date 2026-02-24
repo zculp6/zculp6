@@ -35,6 +35,7 @@ I am seeking roles in:
 - Sports analytics (Research & Development)
 - Player development & performance analysis
 - Data science roles emphasizing statistical modeling and decision support
+- Operations research analysis
 
 
 <a name="statistics-proj"></a>
