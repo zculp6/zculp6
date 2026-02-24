@@ -73,6 +73,16 @@ I am seeking roles in:
 
 <a name="interests"></a>
 
+### STRAIN Soccer — Defensive Intensity Analysis
+
+- Using the **STRAIN** metric to quantify defensive pressure intensity in the attacking third using player tracking data
+- 
+- Pipeline includes possession assignment, attacking direction inference, frame-level closest-defender identification, and closure rate calculation
+- 
+- Animated side-by-side visualizations of pitch movement and real-time defensive metrics (distance, closure rate, STRAIN)
+- 
+- GitHub repository: [STRAIN Soccer](https://github.com/zculp6/STRAIN-Soccer)
+
 ## Interests
 
 - I am an avid sports fan. My favorite teams include FC Barcelona, Pittsburgh Steelers, Chicago Cubs, and Chicago Bulls.
