@@ -90,7 +90,7 @@ I am seeking roles in:
 
 - GitHub repository: [National Parks](https://github.com/zculp6/National-Park-Visit-Optimizer)
 
-- App link: [NP App](https://zculp.shinyapps.io/national-park-visit-optimizer/)
+- App link: [NPS App](https://zculp.shinyapps.io/national-park-visit-optimizer/)
 
 
 <a name="interests"></a>
