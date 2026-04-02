@@ -42,13 +42,13 @@ I am seeking roles in:
 
 ## Statistics Projects
 
-### March Madness Simulation App
+### March Madness Simulation Website
 
-- Built an interactive Streamlit app to simulate NCAA Tournament outcomes
+- Built an interactive website on Render that allows users to select brackets and compete in a leaderboard
   
-- Incorporates team strength distributions, seeding structures, and Monte Carlo simulations
+- Incorporates team strength distributions, seeding structures, and Monte Carlo simulations in autofill options
   
-- Live App: [NCAA App](https://tournamentsimulationspy-xhn8frffnkklhqdfbc2ord.streamlit.app/)
+- Live Website: [NCAA Website](https://bracket-website.onrender.com/)
 
 ### Thermal Image Cleaning (Consulting Project)
 
@@ -72,8 +72,6 @@ I am seeking roles in:
 
 - GitHub repository: [2026 Big Data Bowl](https://github.com/zculp6/2026-Big-Data-Bowl)
 
-<a name="interests"></a>
-
 ### STRAIN Soccer — Defensive Intensity Analysis
 
 - Using the **STRAIN** metric to quantify defensive pressure intensity in the attacking third using player tracking data
@@ -83,6 +81,19 @@ I am seeking roles in:
 - Animated side-by-side visualizations of pitch movement and real-time defensive metrics (distance, closure rate, STRAIN)
   
 - GitHub repository: [STRAIN Soccer](https://github.com/zculp6/STRAIN-Soccer)
+
+### National Parks Route Optimizer
+
+- RShiny app that uses the Traveling Salesman Problem (TSP) to find the quickest path between selected National Parks to optimize the travel time for a trip
+
+- Interactive leaflet plots and google maps that show the location of national parks and the optimal path to take
+
+- GitHub repository: [National Parks](https://github.com/zculp6/National-Park-Visit-Optimizer)
+
+- App link: [NP App](https://zculp.shinyapps.io/national-park-visit-optimizer/)
+
+
+<a name="interests"></a>
 
 ## Interests
 
